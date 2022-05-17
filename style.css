@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: orange;
+    border: 15px solid #11254a;
+    border-radius: 10px;
+    
+}
+.header {
+    color: grey;
+    font-size: 90px;
+    text-align: center;
+}
+.template{
+    font-size: 50px;
+    color: grey;
+    text-align: center;
+}
+.text2{
+    display: hidden;
+    opacity: 0;
+}
+
+#button {
+    font-size: 100;
+    background-color: beige;
+    color: red;
+}
+
+
