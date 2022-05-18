@@ -4,8 +4,7 @@
 }
 body{
     background-color: orange;
-    border: 15px solid #11254a;
-    border-radius: 10px;
+
     
 }
 .header {
@@ -28,5 +27,6 @@ body{
     background-color: beige;
     color: red;
 }
+
 
 
