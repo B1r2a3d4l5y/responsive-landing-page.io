@@ -18,7 +18,7 @@ body{
     text-align: center;
 }
 .text2{
-    visibility: hidden;
+    display: hidden;
     opacity: 0;
 }
 
