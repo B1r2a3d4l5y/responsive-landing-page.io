@@ -1,5 +1,11 @@
 $(document).ready(function(){
-$("#button").click(function(){
-    $(".text2").animate({opacity:1});
-})
-})
+    $("#toggle").click(function(){
+        $("#toggle").slideDown()
+       
+    });
+    $("#toggle").click(function(){
+        $(".nav-items").animate({opacity:1})
+        $(".nav-items").show()
+    })
+   
+    })
